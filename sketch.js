@@ -41,7 +41,7 @@ function setup() {
     btnTema3: "https://educao-e-conscientizao.vercel.app/",
     btnTema4: "https://festejar-e-unir.vercel.app/",
     btnVantagens: "https://vantagens-eosin.vercel.app/",
-    btnQuiz: "https://editor.p5js.org/NicolasPrachumCoelho/full/hIZ6P3KM2",
+    btnQuiz: "https://quiz-smoky-ten-66.vercel.app/",
     btnSobre: "https://editor.p5js.org/NicolasPrachumCoelho/full/wKBjz7Tbk",
     btnJogo: "https://editor.p5js.org/NicolasPrachumCoelho/full/j0b9wPghj",
   };

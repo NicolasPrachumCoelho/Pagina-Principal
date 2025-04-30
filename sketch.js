@@ -42,7 +42,7 @@ function setup() {
     btnTema4: "https://festejar-e-unir.vercel.app/",
     btnVantagens: "https://vantagens-eosin.vercel.app/",
     btnQuiz: "https://quiz-smoky-ten-66.vercel.app/",
-    btnSobre: "https://editor.p5js.org/NicolasPrachumCoelho/full/wKBjz7Tbk",
+    btnSobre: "https://sobre-dusky.vercel.app/",
     btnJogo: "https://editor.p5js.org/NicolasPrachumCoelho/full/j0b9wPghj",
   };
 

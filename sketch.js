@@ -38,7 +38,7 @@ function setup() {
   const buttonLinks = {
     btnTema1: "https://o-campo-produz-a-cidade-consome.vercel.app/",
     btnTema2: "https://valoriza-o-cultural.vercel.app/",
-    btnTema3: "https://editor.p5js.org/NicolasPrachumCoelho/full/BX1tiFzgN",
+    btnTema3: "https://educao-e-conscientizao.vercel.app/",
     btnTema4: "https://editor.p5js.org/NicolasPrachumCoelho/full/4ImliWMCL",
     btnVantagens: "https://editor.p5js.org/NicolasPrachumCoelho/full/REygrduGT",
     btnQuiz: "https://editor.p5js.org/NicolasPrachumCoelho/full/hIZ6P3KM2",

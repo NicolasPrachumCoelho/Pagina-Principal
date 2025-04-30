@@ -43,7 +43,7 @@ function setup() {
     btnVantagens: "https://vantagens-eosin.vercel.app/",
     btnQuiz: "https://quiz-smoky-ten-66.vercel.app/",
     btnSobre: "https://sobre-dusky.vercel.app/",
-    btnJogo: "https://editor.p5js.org/NicolasPrachumCoelho/full/j0b9wPghj",
+    btnJogo: "https://jogo-self-iota.vercel.app/",
   };
 
   Object.keys(buttonLinks).forEach(id => {
